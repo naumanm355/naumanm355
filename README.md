@@ -1,6 +1,6 @@
 ### Hi there, I'm Nauman 👋
 
-### I'm a Full Stack Debeoper, who love code!
+### I'm a Full Stack Developer, who love code!
 
-- 🔭 I’m currently working JavaScript, ReactJS, NodeJS.
-- 🌱 I’m currently learning Open Source Contributions.
+- 🔭 I’m currently working on JavaScript, ReactJS, NodeJS.
+- 🌱 I’m looking to contribute Open Source Projects.
