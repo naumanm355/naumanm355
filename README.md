@@ -23,7 +23,7 @@
 <img alt="Material UI" src="https://material-ui.com/static/logo.png" style="max-width:100%;" width="26px" align="left">
 <img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" style="max-width:100%;" width="26px" align="left">
 <img alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width:100%;" width="26px" align="left">
-<img alt="Micro Soft SQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg" style="max-width:100%;" width="26px" align="left">
+<img alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="max-width:100%;" width="26px" align="left">
 <img alt="Amazon aws" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" style="max-width:100%;" width="26px" align="left">
 <img alt="Heroku" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" style="max-width:100%;" width="26px" align="left">
 <img alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;" width="26px" align="left">
