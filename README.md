@@ -8,8 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Nauman | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.facebook.com/nauman.dev/)
-<img align="left" alt="Nauman | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+[<img align="left" alt="Nauman | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/naumandev)
+[<img align="left" alt="Nauman | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/naumanm355)
+[<img align="left" alt="Nauman | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/nauman.dev)
 <br />
 
 ### Languages and Tools:
