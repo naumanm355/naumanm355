@@ -25,7 +25,7 @@
 <img alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width:100%;" width="26px" align="left">
 <img alt="Micro Soft SQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg" style="max-width:100%;" width="26px" align="left">
 <img alt="Amazon aws" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" style="max-width:100%;" width="26px" align="left">
-<img alt="Heroku" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/heroku.svg" style="max-width:100%;" width="26px" align="left">
+<img alt="Heroku" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" style="max-width:100%;" width="26px" align="left">
 <img alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;" width="26px" align="left">
 <img alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;" width="26px" align="left">
 <img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width:100%;" width="26px" align="left">
