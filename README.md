@@ -23,4 +23,4 @@
 <img alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width:100%;" width="26px" align="left">
 <img alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;" width="26px" align="left">
 <img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width:100%;" width="26px" align="left">
-<img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/jira/jira.png" style="max-width:100%;" width="26px" align="left">
+<img alt="Jira" src="https://p.kindpng.com/picc/s/778-7783038_jira-software-logo-jira-cloud-logo-hd-png.png" style="max-width:100%;" width="26px" align="left">
