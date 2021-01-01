@@ -30,3 +30,5 @@
 <img alt="Jira Software" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" style="max-width:100%;" width="26px" align="left">
 <img alt="Slack" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" style="max-width:100%;" width="26px" align="left">
 <img alt="Postman" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" style="max-width:100%;" width="26px" align="left">
+<img alt="Amazon aws" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" style="max-width:100%;" width="26px" align="left">
+<img alt="Heroku" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/heroku.svg" style="max-width:100%;" width="26px" align="left">
