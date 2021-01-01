@@ -8,4 +8,4 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Nauman | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+<img align="left" alt="Nauman | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
