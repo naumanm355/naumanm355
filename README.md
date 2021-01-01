@@ -2,7 +2,9 @@
 
 ## I’m a Full Stack Developer, who love code!
 - 🔭 I’m currently working on JavaScript, ReactJS, NodeJS.
-- 🌱 I’m looking to contribute Open Source Projects.
+- 🌱 I’m currently learning everything.
+- :dancing_men: https://github.githubassets.com/images/icons/emoji/unicode/1f46f-2642.png I’m looking to contribute Open Source Projects.
+
 
 ### Connect with me:
 
