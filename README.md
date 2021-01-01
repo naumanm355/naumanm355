@@ -30,5 +30,5 @@
 <img alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;" width="26px" align="left">
 <img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width:100%;" width="26px" align="left">
 <img alt="Jira Software" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" style="max-width:100%;" width="26px" align="left">
-<img alt="Slack" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" style="max-width:100%;" width="26px" align="left">
-<img alt="Postman" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" style="max-width:100%;" width="26px" align="left">
+<img alt="Slack" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111615.svg" style="max-width:100%;" width="26px" align="left">
+<img alt="Postman" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" style="max-width:100%;" width="26px" align="left">
